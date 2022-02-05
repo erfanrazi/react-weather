@@ -1,0 +1,31 @@
+.search-wrap {
+  margin-bottom: 20px;
+}
+.form-control {
+  background-color: rgba(108, 159, 248, 0.4);
+}
+.form-control:focus {
+  border-color: #246bf0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #246bf0;
+  background-color: rgba(22, 166, 233, 0.1);
+}
+.btn {
+  color: #2798f5;
+  background-color: transparent;
+  border-color: #2798f5;
+  box-shadow: none;
+}
+.btn:hover {
+  color: #246bf0;
+  border-color: #2798f5;
+  background-color: #e9b1f5;
+}
+.btn:focus {
+  background-color: transparent;
+  color: #e9b1f5;
+  border-color:#e9b1f5;
+  box-shadow: none;
+  outline: none;
+}
